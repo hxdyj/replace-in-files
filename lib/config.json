@@ -36,6 +36,10 @@
       {
         "optionName": "saveOldFile",
         "checks": ["isBoolean"]
+      },
+      {
+        "optionName": "extractPath",
+        "checks": ["isString"]
       }
     ]
   },
